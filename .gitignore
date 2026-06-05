@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+.python-version
+.DS_Store
+*.pyc
+*.zip
+samples/
+demo/*check.csv
+reports/demo_predictions.csv
+app/.streamlit/
+PS40_Network_Intrusion_Detection_Project.pptx
