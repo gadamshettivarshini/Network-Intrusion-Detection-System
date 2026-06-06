@@ -1,7 +1,7 @@
 {
   "slides": [
-    {"slide": 1, "lines": ["PS40 - AI-Powered Network Intrusion Detection System", "IBM AICTE Internship Project", "Sabarish R", "B.Tech CSBS"]},
-    {"slide": 2, "lines": ["Student Profile", "Sabarish R", "sabarish.edu2024@gmail.com", "B.Tech CSBS", "2nd Year, 4th Semester", "Add mobile number and college name"]},
+    {"slide": 1, "lines": ["PS40 - AI-Powered Network Intrusion Detection System", "IBM AICTE Internship Project", "GADAMSHETTI SRIVARSHINI", "B.Tech CSE"]},
+    {"slide": 2, "lines": ["Student Profile", "GADAMSHEETI SRIVARSHINI", "gadamshettiv@gmail.com", "B.Tech CSE", "2nd Year, 4th Semester", "Add mobile number and college name"]},
     {"slide": 3, "lines": ["Problem Statement - PS40", "Detect intrusion patterns in network connection records", "Classify traffic as normal or anomaly", "Support security monitoring with actionable output"]},
     {"slide": 4, "lines": ["Proposed Solution", "Modular ML pipeline", "Validation-driven model selection", "Inference on unlabeled test data", "Exportable predictions and metrics"]},
     {"slide": 5, "lines": ["Tech Stack", "Python", "pandas and numpy", "scikit-learn", "matplotlib", "Streamlit", "Joblib"]},
