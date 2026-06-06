@@ -6,8 +6,8 @@ Title: PS40 - AI-Powered Network Intrusion Detection System
 
 Bullets:
 - IBM AICTE Internship Project
-- Sabarish R
-- B.Tech CSBS
+- GADAMSHETTI SRIVARSHINI
+- B.Tech CSE
 
 Speaker notes:
 - Introduce the project as a cybersecurity-focused ML solution.
@@ -21,9 +21,9 @@ Visuals:
 Title: Student Profile
 
 Bullets:
-- Sabarish R
-- sabarish.edu2024@gmail.com
-- B.Tech CSBS
+- GADAMSHETTI SRIVARSHINI
+- gadamshettiv@gmail.com
+- B.Tech CSBE
 - 2nd Year, 4th Semester
 
 Speaker notes:
